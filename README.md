@@ -1,7 +1,7 @@
-#Overview
+# Overview
 
 This project is an educational application built with Java and the Spring Boot framework. It is designed to demonstrate key concepts in software development.
-###Features
+### Features
 
 - Utilizes Spring Boot for rapid development
 - Follows MVC architecture
@@ -10,12 +10,12 @@ This project is an educational application built with Java and the Spring Boot f
 - Unit tests using JUnit
 - ORM is heavily used
 
-###Application setup
+### Application setup
 
 The application should be run from `src/main/java/rest/api/task/InterviewTask3Application.java`.
 
 By default, the application runs on port 8080.
 
-##Documentation
+## Documentation
 
 For detailed objectives and requirements, refer to **TaskRequirements.pdf**.
